@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>omar sharakey</h1>
+    <h1>omar ssharakey</h1>
 </body>
 </html>
