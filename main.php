@@ -123,7 +123,6 @@ echo PHP_INT_MIN;
 echo PHP_INT_MIN;
 echo PHP_INT_MIN;
 
-//hello this is te3fr2fq2g3rihrwjvwpobjpewbjeoirbnelkbnekbek;bnerk;nbkfqst
 
 ?>
 
