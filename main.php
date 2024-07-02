@@ -1,7 +1,7 @@
 <?php
 
-// $myname = "ahmed20";
-// $var2 = "55";
+// $myname = "billy";
+// $var2 = "23";
 
 // echo "myname is $myname and my age is $var2";
 // echo 'myname is' . $myname .' and my age is ' . $var2;
@@ -37,7 +37,7 @@
  *
  */
 
-
+//fwjbgvlwjebvweljgvbwgkjvbkjevbwkbgvwevm
 // echo $firstName;
 // echo '$firstName';
 // echo "$firstName";
